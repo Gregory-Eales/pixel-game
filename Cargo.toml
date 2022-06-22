@@ -1,0 +1,8 @@
+[package]
+name = "pixel-game"
+version = "0.1.0"
+authors = ["Gregory Eales <gregory.hamilton.e@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+sdl2 = "0.32.1"

@@ -1,2 +1,2 @@
 # pixel-game
-game made with pygame
+game made with rust
